@@ -1,0 +1,11 @@
+{
+    "name": "Mi CV - Luis Lanza",
+    "short_name": "Mi CV",
+    "description": "Actividad de cierre Argentina 4.0 introducción a Frontend",
+    "theme_color": "#75302a",
+    "background_color": "#fafafa",
+    "display": "standalone",
+    "orientation": "portrait",
+    "start_url": "./",
+    "id": "/Proyecto/js/"
+}
